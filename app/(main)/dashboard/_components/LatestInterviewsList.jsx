@@ -1,6 +1,6 @@
 "use client"
 import React,{useState} from 'react'
-import  { Button } from '@/components/ui/Button';
+import  { Button } from '../../../../components/ui/button';
 import {Camera,  Video } from 'lucide-react';
 
 function LatestInterviewsList() {
